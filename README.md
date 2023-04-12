@@ -26,6 +26,8 @@ To start working with this application, go to the middle of the project called w
 When the application is launched, enter the following in the browser's search engine:
 http://localhost:3000/login (port 3000 is not necessary, you may have another port) this is the beginning of this application
 
+test
+
 The route system is as follows: 
 /login - authorization,
 /index – your personal main page from there you can see and add data about water (you cannot get to such a page without authorization)
